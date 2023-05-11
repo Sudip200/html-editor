@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "html-code-editor",
+    "slug": "snack-4b23cefd-4601-420e-8e6e-31547ef3f637",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/html5.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/html5.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.sudipto200.snack4b23cefd4601420e8e6e31547ef3f637"
+    },
+    "web": {
+      "favicon": "./assets/html5.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "a9452d7c-9834-4190-a4da-abf7468f98a2"
+      }
+    }
+  }
+}
