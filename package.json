@@ -15,7 +15,8 @@
     "@expo/vector-icons": "^13.0.0",
     "expo-constants": "~14.0.2",
     "react-native-webview": "11.23.1",
-    "expo-sharing": "~11.0.1"
+    "expo-sharing": "~11.0.1",
+    "expo-updates": "~0.15.6"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9"
