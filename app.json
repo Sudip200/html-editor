@@ -7,7 +7,7 @@
     "icon": "./assets/html5.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/html5.png",
+      "image": "./assets/splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#00b8e6"
     },
@@ -19,13 +19,15 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.sudipto200.snack4b23cefd4601420e8e6e31547ef3f637"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/html5.png",
         "backgroundColor": "#FFFFFF"
       },
+      "versionCode": 3,
       "package": "com.sudipto200.snack4b23cefd4601420e8e6e31547ef3f637"
     },
     "web": {
